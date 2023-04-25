@@ -1,5 +1,7 @@
 # Foundry
 
+`Note: this readme file is a exported version of notion doc`
+
 Created by: saurav suman
 
 Created time: April 24, 2023 10:38 AM
