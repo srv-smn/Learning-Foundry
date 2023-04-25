@@ -1,9 +1,13 @@
 # Foundry
 
 Created by: saurav suman
+
 Created time: April 24, 2023 10:38 AM
+
 Last edited by: saurav suman
+
 Last edited time: April 25, 2023 1:39 PM
+
 
 ### Resources
 
@@ -149,9 +153,8 @@ Link to all [config](https://github.com/foundry-rs/foundry/tree/master/config)
     
     O/P will be something like this:
     
-     
-    
-    ![Untitled](Foundry%2045a57999a0a94a5fb8c7ef3a044de293/Untitled.png)
+     <img width="855" alt="image" src="https://user-images.githubusercontent.com/47235134/234219565-d1ff2b7e-179d-4e8e-9e91-b741c4a0c880.png">
+
     
 2. **Install through npm**
     
@@ -361,9 +364,13 @@ contract ErrorTest is Test {
 
 `expectEmit(
         //     bool checkTopic1,
+	
         //     bool checkTopic2,
+	
         //     bool checkTopic3,
+	
         //     bool checkData
+	
         // )`
 
 where `bool checkTopic1` means if we want to match the 1st indexed value of event or not. and same with `checkTopic2` and `checkTopic3` , `checkData` means do we want to compare the rest of the value of the event .
