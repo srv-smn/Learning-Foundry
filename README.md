@@ -10,8 +10,9 @@ Foundry Doc: [https://book.getfoundry.sh/](https://book.getfoundry.sh/)
 
 **Installation**: 
 
-`curl -L [https://foundry.paradigm.xyz](https://foundry.paradigm.xyz/) | bash
-foundryup`
+`curl -L [https://foundry.paradigm.xyz](https://foundry.paradigm.xyz/) | bash`
+
+`foundryup`
 
 **Initialising Foundry:** `forge init`
 
