@@ -1,16 +1,5 @@
 # Foundry
 
-`Note: this readme file is a exported version of notion doc`
-
-Created by: saurav suman
-
-Created time: April 24, 2023 10:38 AM
-
-Last edited by: saurav suman
-
-Last edited time: April 25, 2023 1:39 PM
-
-
 ### Resources
 
 Youtube: [smart contract programmer](https://youtube.com/playlist?list=PLO5VPQH6OWdUrKEWPF07CSuVm3T99DQki)
